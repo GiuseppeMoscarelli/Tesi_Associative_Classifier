@@ -50,4 +50,16 @@ cambiamento di stato agli stati "Normale" e "QuasiPiena", in cui lo stato
 "QuasiPiena" include anche lo stato "Piena". Variando i parametri a 
 disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
 
+- Il Notebook "Empty_almostEmpty_time_slots.ipynb" contiene il codice relativo all'estrazione
+dei pattern considerando tutte le occorrenze degli stati "Vuota" e "QuasiVuota", 
+dividendo l'arco della giornata in varie fasce orarie ed effettuando l'estrazione
+singolarmente per ciscuna fascia. Variando i parametri a disposizione, si sono ottenute diverse 
+configurazioni usate per l'estrazione.
+
+- Il Notebook "Full_almostFull_time_slots.ipynb" contiene il codice relativo all'estrazione
+dei pattern considerando tutte le occorrenze degli stati "Piena" e "QuasiPiena", 
+dividendo l'arco della giornata in varie fasce orarie ed effettuando l'estrazione
+singolarmente per ciscuna fascia. Variando i parametri a disposizione, si sono ottenute diverse 
+configurazioni usate per l'estrazione.
+
 
