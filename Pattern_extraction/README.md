@@ -62,4 +62,10 @@ dividendo l'arco della giornata in varie fasce orarie ed effettuando l'estrazion
 singolarmente per ciscuna fascia. Variando i parametri a disposizione, si sono ottenute diverse 
 configurazioni usate per l'estrazione.
 
+- Il Notebook "Pattern_filtering.ipynb" contiene il codice per il filtraggio
+dei pattern interessanti tra tutti quelli ottenuti. Oltre ai risultati ottenuti, 
+per ogni file in input, vengono salvati i plot "supporto-confidenza" ed un plot
+che mostra la distribuzione dei pattern ottenuti dopo il filtraggio, in base alla 
+loro confidenza.
+
 
