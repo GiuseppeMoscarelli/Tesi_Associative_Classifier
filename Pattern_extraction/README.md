@@ -1,19 +1,53 @@
 # Fase di estrazione e filtraggio dei pattern
 
 - Il Notebook "AllStates.ipynb" contiene il codice relativo all'estrazione
-dei pattern considerando tutti gli stati critici. Variando i parametri a 
+dei pattern considerando tutte le occorrenze di tutti gli stati critici. Variando i parametri a 
 disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
 
 - Il Notebook "Empty_almostEmpty.ipynb" contiene il codice relativo all'estrazione
-dei pattern considerando gli stati "Vuota" e "QuasiVuota". Variando i parametri a 
+dei pattern considerando tutte le occorrenze degli stati "Vuota" e "QuasiVuota". Variando i parametri a 
 disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
 
 - Il Notebook "Full_almostFull.ipynb" contiene il codice relativo all'estrazione
-dei pattern considerando gli stati "Piena" e "QuasiPiena". Variando i parametri a 
+dei pattern considerando tutte le occorrenze degli stati "Piena" e "QuasiPiena". Variando i parametri a 
 disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
 
 - Il Notebook "Full_Empty.ipynb" contiene il codice relativo all'estrazione
-dei pattern considerando gli stati "Piena" e "Vuota". Variando i parametri a 
+dei pattern considerando tutte le occorrenze degli stati "Piena" e "Vuota". Variando i parametri a 
 disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
 
-- jxhblaX
+- Il Notebook "StateChange_Empty_almostEmpty.ipynb" contiene il codice relativo 
+all'estrazione dei pattern considerando come evento di interesse soltanto il
+cambiamento di stato agli stati "Vuota" e "QuasiVuota". Variando i parametri a 
+disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
+
+- Il Notebook "StateChange_Full_almostFull.ipynb" contiene il codice relativo 
+all'estrazione dei pattern considerando come evento di interesse soltanto il
+cambiamento di stato agli stati "Piena" e "QuasiPiena". Variando i parametri a 
+disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
+
+- Il Notebook "StateChange_Normal_Full_almostFull.ipynb" contiene il codice relativo 
+all'estrazione dei pattern considerando come evento di interesse soltanto il
+cambiamento di stato agli stati "Normale","Piena" e "QuasiPiena". 
+Variando i parametri a disposizione, si sono ottenute diverse configurazioni 
+usate per l'estrazione.
+
+- Il Notebook "StateChange_Normal_almostEmpty.ipynb" contiene il codice relativo 
+all'estrazione dei pattern considerando come evento di interesse soltanto il
+cambiamento di stato agli stati "Normale", Vuota e "QuasiVuota". 
+Variando i parametri a disposizione, si sono ottenute diverse configurazioni 
+usate per l'estrazione.
+
+- Il Notebook "StateChange_Normal_almostEmpty.ipynb" contiene il codice relativo 
+all'estrazione dei pattern considerando come evento di interesse soltanto il
+cambiamento di stato agli stati "Normale" e "QuasiVuota", in cui lo stato 
+"QuasiVuota" comprende anche lo stato "Vuota". Variando i parametri a 
+disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
+
+- Il Notebook "StateChange_Normal_almostFull.ipynb" contiene il codice relativo 
+all'estrazione dei pattern considerando come evento di interesse soltanto il
+cambiamento di stato agli stati "Normale" e "QuasiPiena", in cui lo stato
+"QuasiPiena" include anche lo stato "Piena". Variando i parametri a 
+disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
+
+
