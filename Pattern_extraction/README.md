@@ -68,4 +68,11 @@ per ogni file in input, vengono salvati i plot "supporto-confidenza" ed un plot
 che mostra la distribuzione dei pattern ottenuti dopo il filtraggio, in base alla 
 loro confidenza.
 
+- Nella cartella "Results_extraction" sono contenuti tutti i pattern estratti dalle
+varie configurazioni utilizzate.
+
+- Nella cartella "Results_filtered_patterns" sono contenuti tutti i pattern ottenuti
+dopo l'applicazione del filtro.
+
+
 
