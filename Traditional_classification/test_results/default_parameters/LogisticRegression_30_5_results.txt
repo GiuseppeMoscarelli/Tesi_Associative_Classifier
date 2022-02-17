@@ -1,0 +1,318 @@
+TESING RESULTS FOR LogisticRegression CLASSIFIER:
+
+LogisticRegression FOR STATION 41
+Confusion matrix:
+[[7941   76]
+ [ 104   54]]
+tp=54, fn=104, fp=76, tn=7941
+accuracy=0.9779816513761468; recall=0.34177215189873417; precision=0.4153846153846154
+
+----------
+
+LogisticRegression FOR STATION 42
+Confusion matrix:
+[[7899   64]
+ [ 120   92]]
+tp=92, fn=120, fp=64, tn=7899
+accuracy=0.9774923547400611; recall=0.4339622641509434; precision=0.5897435897435898
+
+----------
+
+LogisticRegression FOR STATION 45
+Confusion matrix:
+[[7931   88]
+ [  78   78]]
+tp=78, fn=78, fp=88, tn=7931
+accuracy=0.9796941896024465; recall=0.5; precision=0.46987951807228917
+
+----------
+
+LogisticRegression FOR STATION 46
+Confusion matrix:
+[[7538   87]
+ [ 175  375]]
+tp=375, fn=175, fp=87, tn=7538
+accuracy=0.9679510703363914; recall=0.6818181818181818; precision=0.8116883116883117
+
+----------
+
+LogisticRegression FOR STATION 47
+Confusion matrix:
+[[8015   33]
+ [  76   51]]
+tp=51, fn=76, fp=33, tn=8015
+accuracy=0.9866666666666667; recall=0.4015748031496063; precision=0.6071428571428571
+
+----------
+
+LogisticRegression FOR STATION 48
+Confusion matrix:
+[[7752  107]
+ [ 138  178]]
+tp=178, fn=138, fp=107, tn=7752
+accuracy=0.9700305810397554; recall=0.5632911392405063; precision=0.624561403508772
+
+----------
+
+LogisticRegression FOR STATION 49
+Confusion matrix:
+[[7988   38]
+ [  52   97]]
+tp=97, fn=52, fp=38, tn=7988
+accuracy=0.9889908256880734; recall=0.6510067114093959; precision=0.7185185185185186
+
+----------
+
+LogisticRegression FOR STATION 50
+Confusion matrix:
+[[7589  161]
+ [ 214  211]]
+tp=211, fn=214, fp=161, tn=7589
+accuracy=0.9541284403669725; recall=0.4964705882352941; precision=0.5672043010752689
+
+----------
+
+LogisticRegression FOR STATION 51
+Confusion matrix:
+[[8008   39]
+ [ 108   20]]
+tp=20, fn=108, fp=39, tn=8008
+accuracy=0.9820183486238532; recall=0.15625; precision=0.3389830508474576
+
+----------
+
+LogisticRegression FOR STATION 39
+Confusion matrix:
+[[7482  137]
+ [ 186  370]]
+tp=370, fn=186, fp=137, tn=7482
+accuracy=0.9604892966360856; recall=0.6654676258992805; precision=0.7297830374753451
+
+----------
+
+LogisticRegression FOR STATION 54
+Confusion matrix:
+[[6908  188]
+ [ 189  890]]
+tp=890, fn=189, fp=188, tn=6908
+accuracy=0.9538837920489297; recall=0.82483781278962; precision=0.8256029684601113
+
+----------
+
+LogisticRegression FOR STATION 55
+Confusion matrix:
+[[7950   67]
+ [  68   90]]
+tp=90, fn=68, fp=67, tn=7950
+accuracy=0.9834862385321101; recall=0.569620253164557; precision=0.5732484076433121
+
+----------
+
+LogisticRegression FOR STATION 56
+Confusion matrix:
+[[8086   44]
+ [  42    3]]
+tp=3, fn=42, fp=44, tn=8086
+accuracy=0.989480122324159; recall=0.06666666666666667; precision=0.06382978723404255
+
+----------
+
+LogisticRegression FOR STATION 57
+Confusion matrix:
+[[7591   80]
+ [ 245  259]]
+tp=259, fn=245, fp=80, tn=7591
+accuracy=0.9602446483180428; recall=0.5138888888888888; precision=0.7640117994100295
+
+----------
+
+LogisticRegression FOR STATION 58
+Confusion matrix:
+[[8074    5]
+ [  80   16]]
+tp=16, fn=80, fp=5, tn=8074
+accuracy=0.9896024464831804; recall=0.16666666666666666; precision=0.7619047619047619
+
+----------
+
+LogisticRegression FOR STATION 59
+Confusion matrix:
+[[8158    8]
+ [   9    0]]
+tp=0, fn=9, fp=8, tn=8158
+accuracy=0.9979204892966361; recall=0.0; precision=0.0
+
+----------
+
+LogisticRegression FOR STATION 60
+Confusion matrix:
+[[7514  174]
+ [ 268  219]]
+tp=219, fn=268, fp=174, tn=7514
+accuracy=0.9459327217125382; recall=0.44969199178644764; precision=0.5572519083969466
+
+----------
+
+LogisticRegression FOR STATION 61
+Confusion matrix:
+[[7975   46]
+ [ 122   32]]
+tp=32, fn=122, fp=46, tn=7975
+accuracy=0.9794495412844036; recall=0.2077922077922078; precision=0.41025641025641024
+
+----------
+
+LogisticRegression FOR STATION 62
+Confusion matrix:
+[[8151   15]
+ [   9    0]]
+tp=0, fn=9, fp=15, tn=8151
+accuracy=0.9970642201834863; recall=0.0; precision=0.0
+
+----------
+
+LogisticRegression FOR STATION 63
+Confusion matrix:
+[[7878   75]
+ [ 105  117]]
+tp=117, fn=105, fp=75, tn=7878
+accuracy=0.9779816513761468; recall=0.527027027027027; precision=0.609375
+
+----------
+
+LogisticRegression FOR STATION 64
+Confusion matrix:
+[[7851   91]
+ [ 168   65]]
+tp=65, fn=168, fp=91, tn=7851
+accuracy=0.9683180428134557; recall=0.27896995708154504; precision=0.4166666666666667
+
+----------
+
+LogisticRegression FOR STATION 65
+Confusion matrix:
+[[7656  110]
+ [ 196  213]]
+tp=213, fn=196, fp=110, tn=7656
+accuracy=0.9625688073394495; recall=0.5207823960880196; precision=0.6594427244582043
+
+----------
+
+LogisticRegression FOR STATION 66
+Confusion matrix:
+[[7963   34]
+ [ 117   61]]
+tp=61, fn=117, fp=34, tn=7963
+accuracy=0.9815290519877676; recall=0.34269662921348315; precision=0.6421052631578947
+
+----------
+
+LogisticRegression FOR STATION 67
+Confusion matrix:
+[[8157    9]
+ [   6    3]]
+tp=3, fn=6, fp=9, tn=8157
+accuracy=0.998165137614679; recall=0.3333333333333333; precision=0.25
+
+----------
+
+LogisticRegression FOR STATION 68
+Confusion matrix:
+[[7955   35]
+ [  81  104]]
+tp=104, fn=81, fp=35, tn=7955
+accuracy=0.9858103975535168; recall=0.5621621621621622; precision=0.7482014388489209
+
+----------
+
+LogisticRegression FOR STATION 69
+Confusion matrix:
+[[7673  137]
+ [ 130  235]]
+tp=235, fn=130, fp=137, tn=7673
+accuracy=0.9673394495412844; recall=0.6438356164383562; precision=0.6317204301075269
+
+----------
+
+LogisticRegression FOR STATION 70
+Confusion matrix:
+[[7710  112]
+ [ 177  176]]
+tp=176, fn=177, fp=112, tn=7710
+accuracy=0.9646483180428135; recall=0.4985835694050991; precision=0.6111111111111112
+
+----------
+
+LogisticRegression FOR STATION 71
+Confusion matrix:
+[[7857  121]
+ [ 123   74]]
+tp=74, fn=123, fp=121, tn=7857
+accuracy=0.9701529051987767; recall=0.3756345177664975; precision=0.37948717948717947
+
+----------
+
+LogisticRegression FOR STATION 72
+Confusion matrix:
+[[7475   67]
+ [ 148  485]]
+tp=485, fn=148, fp=67, tn=7475
+accuracy=0.9737003058103976; recall=0.7661927330173776; precision=0.8786231884057971
+
+----------
+
+LogisticRegression FOR STATION 73
+Confusion matrix:
+[[6986  203]
+ [ 380  606]]
+tp=606, fn=380, fp=203, tn=6986
+accuracy=0.9286850152905198; recall=0.6146044624746451; precision=0.7490729295426453
+
+----------
+
+LogisticRegression FOR STATION 74
+Confusion matrix:
+[[7547  180]
+ [ 131  317]]
+tp=317, fn=131, fp=180, tn=7547
+accuracy=0.9619571865443425; recall=0.7075892857142857; precision=0.6378269617706237
+
+----------
+
+LogisticRegression FOR STATION 75
+Confusion matrix:
+[[8081   38]
+ [  28   28]]
+tp=28, fn=28, fp=38, tn=8081
+accuracy=0.9919266055045871; recall=0.5; precision=0.42424242424242425
+
+----------
+
+LogisticRegression FOR STATION 76
+Confusion matrix:
+[[7986   38]
+ [ 104   47]]
+tp=47, fn=104, fp=38, tn=7986
+accuracy=0.9826299694189602; recall=0.31125827814569534; precision=0.5529411764705883
+
+----------
+
+LogisticRegression FOR STATION 77
+Confusion matrix:
+[[8005   56]
+ [  69   45]]
+tp=45, fn=69, fp=56, tn=8005
+accuracy=0.9847094801223242; recall=0.39473684210526316; precision=0.44554455445544555
+
+----------
+
+LogisticRegression FOR STATION 82
+Confusion matrix:
+[[7847   75]
+ [ 156   97]]
+tp=97, fn=156, fp=75, tn=7847
+accuracy=0.971743119266055; recall=0.383399209486166; precision=0.563953488372093
+
+----------
+
+AVERAGE VALUES FOR LogisticRegression: accuracy=0.974696373962429; recall=0.564589515331355; precision=0.6679148139480459

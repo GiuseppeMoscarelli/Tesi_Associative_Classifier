@@ -1,0 +1,318 @@
+TESING RESULTS FOR RandomForest CLASSIFIER:
+
+RandomForest FOR STATION 41
+Confusion matrix:
+[[8011    6]
+ [ 150    8]]
+tp=8, fn=150, fp=6, tn=8011
+accuracy=0.9809174311926605; recall=0.05063291139240506; precision=0.5714285714285714
+
+----------
+
+RandomForest FOR STATION 42
+Confusion matrix:
+[[7954    9]
+ [ 162   50]]
+tp=50, fn=162, fp=9, tn=7954
+accuracy=0.9790825688073395; recall=0.2358490566037736; precision=0.847457627118644
+
+----------
+
+RandomForest FOR STATION 45
+Confusion matrix:
+[[8015    4]
+ [ 137   19]]
+tp=19, fn=137, fp=4, tn=8015
+accuracy=0.9827522935779817; recall=0.12179487179487179; precision=0.8260869565217391
+
+----------
+
+RandomForest FOR STATION 46
+Confusion matrix:
+[[7576   49]
+ [ 155  395]]
+tp=395, fn=155, fp=49, tn=7576
+accuracy=0.9750458715596331; recall=0.7181818181818181; precision=0.8896396396396397
+
+----------
+
+RandomForest FOR STATION 47
+Confusion matrix:
+[[8048    0]
+ [ 124    3]]
+tp=3, fn=124, fp=0, tn=8048
+accuracy=0.9848318042813455; recall=0.023622047244094488; precision=1.0
+
+----------
+
+RandomForest FOR STATION 48
+Confusion matrix:
+[[7851    8]
+ [ 300   16]]
+tp=16, fn=300, fp=8, tn=7851
+accuracy=0.9623241590214068; recall=0.05063291139240506; precision=0.6666666666666666
+
+----------
+
+RandomForest FOR STATION 49
+Confusion matrix:
+[[8009   17]
+ [  36  113]]
+tp=113, fn=36, fp=17, tn=8009
+accuracy=0.9935168195718654; recall=0.7583892617449665; precision=0.8692307692307693
+
+----------
+
+RandomForest FOR STATION 50
+Confusion matrix:
+[[7717   33]
+ [ 361   64]]
+tp=64, fn=361, fp=33, tn=7717
+accuracy=0.9518042813455657; recall=0.15058823529411763; precision=0.6597938144329897
+
+----------
+
+RandomForest FOR STATION 51
+Confusion matrix:
+[[8044    3]
+ [ 123    5]]
+tp=5, fn=123, fp=3, tn=8044
+accuracy=0.9845871559633027; recall=0.0390625; precision=0.625
+
+----------
+
+RandomForest FOR STATION 39
+Confusion matrix:
+[[7588   31]
+ [ 328  228]]
+tp=228, fn=328, fp=31, tn=7588
+accuracy=0.9560856269113149; recall=0.41007194244604317; precision=0.8803088803088803
+
+----------
+
+RandomForest FOR STATION 54
+Confusion matrix:
+[[6969  127]
+ [ 228  851]]
+tp=851, fn=228, fp=127, tn=6969
+accuracy=0.9565749235474006; recall=0.788693234476367; precision=0.8701431492842536
+
+----------
+
+RandomForest FOR STATION 55
+Confusion matrix:
+[[8009    8]
+ [  95   63]]
+tp=63, fn=95, fp=8, tn=8009
+accuracy=0.9874006116207951; recall=0.3987341772151899; precision=0.8873239436619719
+
+----------
+
+RandomForest FOR STATION 56
+Confusion matrix:
+[[8130    0]
+ [  44    1]]
+tp=1, fn=44, fp=0, tn=8130
+accuracy=0.9946177370030581; recall=0.022222222222222223; precision=1.0
+
+----------
+
+RandomForest FOR STATION 57
+Confusion matrix:
+[[7633   38]
+ [ 241  263]]
+tp=263, fn=241, fp=38, tn=7633
+accuracy=0.9658715596330275; recall=0.5218253968253969; precision=0.8737541528239202
+
+----------
+
+RandomForest FOR STATION 58
+Confusion matrix:
+[[8079    0]
+ [  86   10]]
+tp=10, fn=86, fp=0, tn=8079
+accuracy=0.989480122324159; recall=0.10416666666666667; precision=1.0
+
+----------
+
+RandomForest FOR STATION 59
+Confusion matrix:
+[[8164    2]
+ [   8    1]]
+tp=1, fn=8, fp=2, tn=8164
+accuracy=0.998776758409786; recall=0.1111111111111111; precision=0.3333333333333333
+
+----------
+
+RandomForest FOR STATION 60
+Confusion matrix:
+[[7654   34]
+ [ 441   46]]
+tp=46, fn=441, fp=34, tn=7654
+accuracy=0.9418960244648318; recall=0.0944558521560575; precision=0.575
+
+----------
+
+RandomForest FOR STATION 61
+Confusion matrix:
+[[8016    5]
+ [ 141   13]]
+tp=13, fn=141, fp=5, tn=8016
+accuracy=0.9821406727828746; recall=0.08441558441558442; precision=0.7222222222222222
+
+----------
+
+RandomForest FOR STATION 62
+Confusion matrix:
+[[8166    0]
+ [   9    0]]
+tp=0, fn=9, fp=0, tn=8166
+accuracy=0.9988990825688073; recall=0.0; precision=nan
+
+----------
+
+RandomForest FOR STATION 63
+Confusion matrix:
+[[7949    4]
+ [ 203   19]]
+tp=19, fn=203, fp=4, tn=7949
+accuracy=0.9746788990825688; recall=0.08558558558558559; precision=0.8260869565217391
+
+----------
+
+RandomForest FOR STATION 64
+Confusion matrix:
+[[7939    3]
+ [ 227    6]]
+tp=6, fn=227, fp=3, tn=7939
+accuracy=0.9718654434250764; recall=0.02575107296137339; precision=0.6666666666666666
+
+----------
+
+RandomForest FOR STATION 65
+Confusion matrix:
+[[7746   20]
+ [ 241  168]]
+tp=168, fn=241, fp=20, tn=7746
+accuracy=0.9680733944954129; recall=0.41075794621026895; precision=0.8936170212765957
+
+----------
+
+RandomForest FOR STATION 66
+Confusion matrix:
+[[7991    6]
+ [ 134   44]]
+tp=44, fn=134, fp=6, tn=7991
+accuracy=0.982874617737003; recall=0.24719101123595505; precision=0.88
+
+----------
+
+RandomForest FOR STATION 67
+Confusion matrix:
+[[8166    0]
+ [   9    0]]
+tp=0, fn=9, fp=0, tn=8166
+accuracy=0.9988990825688073; recall=0.0; precision=nan
+
+----------
+
+RandomForest FOR STATION 68
+Confusion matrix:
+[[7980   10]
+ [ 150   35]]
+tp=35, fn=150, fp=10, tn=7980
+accuracy=0.980428134556575; recall=0.1891891891891892; precision=0.7777777777777778
+
+----------
+
+RandomForest FOR STATION 69
+Confusion matrix:
+[[7790   20]
+ [ 251  114]]
+tp=114, fn=251, fp=20, tn=7790
+accuracy=0.9668501529051988; recall=0.31232876712328766; precision=0.8507462686567164
+
+----------
+
+RandomForest FOR STATION 70
+Confusion matrix:
+[[7804   18]
+ [ 200  153]]
+tp=153, fn=200, fp=18, tn=7804
+accuracy=0.9733333333333334; recall=0.43342776203966005; precision=0.8947368421052632
+
+----------
+
+RandomForest FOR STATION 71
+Confusion matrix:
+[[7977    1]
+ [ 197    0]]
+tp=0, fn=197, fp=1, tn=7977
+accuracy=0.9757798165137614; recall=0.0; precision=0.0
+
+----------
+
+RandomForest FOR STATION 72
+Confusion matrix:
+[[7476   66]
+ [ 120  513]]
+tp=513, fn=120, fp=66, tn=7476
+accuracy=0.9772477064220183; recall=0.8104265402843602; precision=0.8860103626943006
+
+----------
+
+RandomForest FOR STATION 73
+Confusion matrix:
+[[7125   64]
+ [ 386  600]]
+tp=600, fn=386, fp=64, tn=7125
+accuracy=0.944954128440367; recall=0.6085192697768763; precision=0.9036144578313253
+
+----------
+
+RandomForest FOR STATION 74
+Confusion matrix:
+[[7688   39]
+ [ 162  286]]
+tp=286, fn=162, fp=39, tn=7688
+accuracy=0.9754128440366973; recall=0.6383928571428571; precision=0.88
+
+----------
+
+RandomForest FOR STATION 75
+Confusion matrix:
+[[8118    1]
+ [  55    1]]
+tp=1, fn=55, fp=1, tn=8118
+accuracy=0.9931498470948013; recall=0.017857142857142856; precision=0.5
+
+----------
+
+RandomForest FOR STATION 76
+Confusion matrix:
+[[8020    4]
+ [ 148    3]]
+tp=3, fn=148, fp=4, tn=8020
+accuracy=0.9814067278287462; recall=0.019867549668874173; precision=0.42857142857142855
+
+----------
+
+RandomForest FOR STATION 77
+Confusion matrix:
+[[8060    1]
+ [ 111    3]]
+tp=3, fn=111, fp=1, tn=8060
+accuracy=0.9862996941896024; recall=0.02631578947368421; precision=0.75
+
+----------
+
+RandomForest FOR STATION 82
+Confusion matrix:
+[[7916    6]
+ [ 235   18]]
+tp=18, fn=235, fp=6, tn=7916
+accuracy=0.970519877675841; recall=0.07114624505928854; precision=0.75
+
+----------
+
+AVERAGE VALUES FOR RandomForest: accuracy=0.9768108344255133; recall=0.4067260138476756; precision=0.8658664982101495

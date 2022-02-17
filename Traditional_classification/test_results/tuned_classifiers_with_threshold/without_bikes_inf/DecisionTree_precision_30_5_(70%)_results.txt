@@ -1,0 +1,318 @@
+TESING RESULTS FOR DecisionTree CLASSIFIER WITH THRESHOLD 70%:
+
+DecisionTree FOR STATION 41
+Confusion matrix:
+[[8017    0]
+ [ 158    0]]
+tp=0, fn=158, fp=0, tn=8017
+accuracy=0.9806727828746178; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 42
+Confusion matrix:
+[[7938   25]
+ [ 160   52]]
+tp=52, fn=160, fp=25, tn=7938
+accuracy=0.9773700305810398; recall=0.24528301886792453; precision=0.6753246753246753; f1_score= 0.35986159169550175
+
+----------
+
+DecisionTree FOR STATION 45
+Confusion matrix:
+[[8016    3]
+ [ 140   16]]
+tp=16, fn=140, fp=3, tn=8016
+accuracy=0.9825076452599388; recall=0.10256410256410256; precision=0.8421052631578947; f1_score= 0.18285714285714286
+
+----------
+
+DecisionTree FOR STATION 46
+Confusion matrix:
+[[7564   61]
+ [  54  496]]
+tp=496, fn=54, fp=61, tn=7564
+accuracy=0.9859327217125382; recall=0.9018181818181819; precision=0.8904847396768402; f1_score= 0.896115627822945
+
+----------
+
+DecisionTree FOR STATION 47
+Confusion matrix:
+[[8020   28]
+ [  28   99]]
+tp=99, fn=28, fp=28, tn=8020
+accuracy=0.9931498470948013; recall=0.7795275590551181; precision=0.7795275590551181; f1_score= 0.7795275590551181
+
+----------
+
+DecisionTree FOR STATION 48
+Confusion matrix:
+[[7856    3]
+ [ 297   19]]
+tp=19, fn=297, fp=3, tn=7856
+accuracy=0.963302752293578; recall=0.060126582278481014; precision=0.8636363636363636; f1_score= 0.11242603550295859
+
+----------
+
+DecisionTree FOR STATION 49
+Confusion matrix:
+[[8002   24]
+ [  23  126]]
+tp=126, fn=23, fp=24, tn=8002
+accuracy=0.9942507645259939; recall=0.8456375838926175; precision=0.84; f1_score= 0.842809364548495
+
+----------
+
+DecisionTree FOR STATION 50
+Confusion matrix:
+[[7669   81]
+ [ 202  223]]
+tp=223, fn=202, fp=81, tn=7669
+accuracy=0.9653822629969419; recall=0.5247058823529411; precision=0.7335526315789473; f1_score= 0.6117969821673525
+
+----------
+
+DecisionTree FOR STATION 51
+Confusion matrix:
+[[8047    0]
+ [ 128    0]]
+tp=0, fn=128, fp=0, tn=8047
+accuracy=0.98434250764526; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 39
+Confusion matrix:
+[[7513  106]
+ [ 106  450]]
+tp=450, fn=106, fp=106, tn=7513
+accuracy=0.9740672782874618; recall=0.8093525179856115; precision=0.8093525179856115; f1_score= 0.8093525179856116
+
+----------
+
+DecisionTree FOR STATION 54
+Confusion matrix:
+[[6934  162]
+ [ 162  917]]
+tp=917, fn=162, fp=162, tn=6934
+accuracy=0.9603669724770643; recall=0.8498609823911029; precision=0.8498609823911029; f1_score= 0.8498609823911029
+
+----------
+
+DecisionTree FOR STATION 55
+Confusion matrix:
+[[7981   36]
+ [  33  125]]
+tp=125, fn=33, fp=36, tn=7981
+accuracy=0.9915596330275229; recall=0.7911392405063291; precision=0.7763975155279503; f1_score= 0.7836990595611285
+
+----------
+
+DecisionTree FOR STATION 56
+Confusion matrix:
+[[8123    7]
+ [  37    8]]
+tp=8, fn=37, fp=7, tn=8123
+accuracy=0.9946177370030581; recall=0.17777777777777778; precision=0.5333333333333333; f1_score= 0.26666666666666666
+
+----------
+
+DecisionTree FOR STATION 57
+Confusion matrix:
+[[7590   81]
+ [  81  423]]
+tp=423, fn=81, fp=81, tn=7590
+accuracy=0.9801834862385321; recall=0.8392857142857143; precision=0.8392857142857143; f1_score= 0.8392857142857143
+
+----------
+
+DecisionTree FOR STATION 58
+Confusion matrix:
+[[8075    4]
+ [  25   71]]
+tp=71, fn=25, fp=4, tn=8075
+accuracy=0.9964525993883792; recall=0.7395833333333334; precision=0.9466666666666667; f1_score= 0.8304093567251462
+
+----------
+
+DecisionTree FOR STATION 59
+Confusion matrix:
+[[8161    5]
+ [   2    7]]
+tp=7, fn=2, fp=5, tn=8161
+accuracy=0.9991437308868502; recall=0.7777777777777778; precision=0.5833333333333334; f1_score= 0.6666666666666666
+
+----------
+
+DecisionTree FOR STATION 60
+Confusion matrix:
+[[7588  100]
+ [ 371  116]]
+tp=116, fn=371, fp=100, tn=7588
+accuracy=0.9423853211009174; recall=0.23819301848049282; precision=0.5370370370370371; f1_score= 0.3300142247510669
+
+----------
+
+DecisionTree FOR STATION 61
+Confusion matrix:
+[[7996   25]
+ [  32  122]]
+tp=122, fn=32, fp=25, tn=7996
+accuracy=0.9930275229357798; recall=0.7922077922077922; precision=0.8299319727891157; f1_score= 0.8106312292358805
+
+----------
+
+DecisionTree FOR STATION 62
+Confusion matrix:
+[[8161    5]
+ [   9    0]]
+tp=0, fn=9, fp=5, tn=8161
+accuracy=0.9982874617737003; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 63
+Confusion matrix:
+[[7916   37]
+ [ 137   85]]
+tp=85, fn=137, fp=37, tn=7916
+accuracy=0.9787155963302753; recall=0.38288288288288286; precision=0.6967213114754098; f1_score= 0.4941860465116278
+
+----------
+
+DecisionTree FOR STATION 64
+Confusion matrix:
+[[7942    0]
+ [ 233    0]]
+tp=0, fn=233, fp=0, tn=7942
+accuracy=0.9714984709480122; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 65
+Confusion matrix:
+[[7717   49]
+ [ 207  202]]
+tp=202, fn=207, fp=49, tn=7717
+accuracy=0.9686850152905199; recall=0.4938875305623472; precision=0.8047808764940239; f1_score= 0.6121212121212121
+
+----------
+
+DecisionTree FOR STATION 66
+Confusion matrix:
+[[7974   23]
+ [  23  155]]
+tp=155, fn=23, fp=23, tn=7974
+accuracy=0.9943730886850153; recall=0.8707865168539326; precision=0.8707865168539326; f1_score= 0.8707865168539326
+
+----------
+
+DecisionTree FOR STATION 67
+Confusion matrix:
+[[8165    1]
+ [   9    0]]
+tp=0, fn=9, fp=1, tn=8165
+accuracy=0.998776758409786; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 68
+Confusion matrix:
+[[7944   46]
+ [  46  139]]
+tp=139, fn=46, fp=46, tn=7944
+accuracy=0.9887461773700306; recall=0.7513513513513513; precision=0.7513513513513513; f1_score= 0.7513513513513513
+
+----------
+
+DecisionTree FOR STATION 69
+Confusion matrix:
+[[7767   43]
+ [ 208  157]]
+tp=157, fn=208, fp=43, tn=7767
+accuracy=0.9692966360856269; recall=0.4301369863013699; precision=0.785; f1_score= 0.5557522123893806
+
+----------
+
+DecisionTree FOR STATION 70
+Confusion matrix:
+[[7788   34]
+ [ 158  195]]
+tp=195, fn=158, fp=34, tn=7788
+accuracy=0.9765137614678899; recall=0.5524079320113314; precision=0.851528384279476; f1_score= 0.6701030927835051
+
+----------
+
+DecisionTree FOR STATION 71
+Confusion matrix:
+[[7940   38]
+ [ 134   63]]
+tp=63, fn=134, fp=38, tn=7940
+accuracy=0.978960244648318; recall=0.3197969543147208; precision=0.6237623762376238; f1_score= 0.42281879194630867
+
+----------
+
+DecisionTree FOR STATION 72
+Confusion matrix:
+[[7475   67]
+ [  67  566]]
+tp=566, fn=67, fp=67, tn=7475
+accuracy=0.9836085626911315; recall=0.8941548183254344; precision=0.8941548183254344; f1_score= 0.8941548183254344
+
+----------
+
+DecisionTree FOR STATION 73
+Confusion matrix:
+[[7085  104]
+ [ 189  797]]
+tp=797, fn=189, fp=104, tn=7085
+accuracy=0.9641590214067278; recall=0.808316430020284; precision=0.8845726970033296; f1_score= 0.8447270800211977
+
+----------
+
+DecisionTree FOR STATION 74
+Confusion matrix:
+[[7635   92]
+ [  91  357]]
+tp=357, fn=91, fp=92, tn=7635
+accuracy=0.9776146788990826; recall=0.796875; precision=0.7951002227171492; f1_score= 0.7959866220735786
+
+----------
+
+DecisionTree FOR STATION 75
+Confusion matrix:
+[[8100   19]
+ [  27   29]]
+tp=29, fn=27, fp=19, tn=8100
+accuracy=0.9943730886850153; recall=0.5178571428571429; precision=0.6041666666666666; f1_score= 0.5576923076923077
+
+----------
+
+DecisionTree FOR STATION 76
+Confusion matrix:
+[[8024    0]
+ [ 151    0]]
+tp=0, fn=151, fp=0, tn=8024
+accuracy=0.9815290519877676; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 77
+Confusion matrix:
+[[8046   15]
+ [  90   24]]
+tp=24, fn=90, fp=15, tn=8046
+accuracy=0.9871559633027523; recall=0.21052631578947367; precision=0.6153846153846154; f1_score= 0.3137254901960784
+
+----------
+
+DecisionTree FOR STATION 82
+Confusion matrix:
+[[7868   54]
+ [ 146  107]]
+tp=107, fn=146, fp=54, tn=7868
+accuracy=0.9755351681957186; recall=0.42292490118577075; precision=0.6645962732919255; f1_score= 0.5169082125603865
+
+----------
+
+AVERAGE VALUES FOR DecisionTree: accuracy=0.9813298383573613; recall=0.6079129574678536; precision=0.8168527379053695; f1_score=0.697062492911421

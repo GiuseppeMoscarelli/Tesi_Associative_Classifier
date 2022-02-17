@@ -1,0 +1,324 @@
+TESING RESULTS FOR DecisionTree CLASSIFIER WITH THRESHOLD 95%:
+
+DecisionTree FOR STATION 41
+Confusion matrix:
+[[1462    0]
+ [  67    0]]
+tp=0, fn=67, fp=0, tn=1462
+accuracy=0.9561805101373446; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 42
+Confusion matrix:
+[[1454    0]
+ [  75    0]]
+tp=0, fn=75, fp=0, tn=1454
+accuracy=0.9509483322432962; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 45
+Confusion matrix:
+[[1464    0]
+ [  65    0]]
+tp=0, fn=65, fp=0, tn=1464
+accuracy=0.9574885546108568; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 46
+Confusion matrix:
+[[1475    6]
+ [  40    8]]
+tp=8, fn=40, fp=6, tn=1475
+accuracy=0.9699149771092217; recall=0.16666666666666666; precision=0.5714285714285714; f1_score= 0.25806451612903225
+
+----------
+
+DecisionTree FOR STATION 47
+Confusion matrix:
+[[1499    0]
+ [  30    0]]
+tp=0, fn=30, fp=0, tn=1499
+accuracy=0.9803793328973185; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 48
+Confusion matrix:
+[[1417    0]
+ [ 112    0]]
+tp=0, fn=112, fp=0, tn=1417
+accuracy=0.9267495094833225; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 49
+Confusion matrix:
+[[1523    0]
+ [   6    0]]
+tp=0, fn=6, fp=0, tn=1523
+accuracy=0.9960758665794637; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 50
+Confusion matrix:
+[[1502    0]
+ [  27    0]]
+tp=0, fn=27, fp=0, tn=1502
+accuracy=0.9823413996075867; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 51
+Confusion matrix:
+[[1478    0]
+ [  51    0]]
+tp=0, fn=51, fp=0, tn=1478
+accuracy=0.9666448659254414; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 39
+Confusion matrix:
+[[1472    0]
+ [  57    0]]
+tp=0, fn=57, fp=0, tn=1472
+accuracy=0.9627207325049052; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 54
+Confusion matrix:
+[[1431    9]
+ [  62   27]]
+tp=27, fn=62, fp=9, tn=1431
+accuracy=0.9535644211903205; recall=0.30337078651685395; precision=0.75; f1_score= 0.432
+
+----------
+
+DecisionTree FOR STATION 55
+Confusion matrix:
+[[1511   16]
+ [   2    0]]
+tp=0, fn=2, fp=16, tn=1511
+accuracy=0.9882275997383911; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 56
+Confusion matrix:
+[[1513    0]
+ [  16    0]]
+tp=0, fn=16, fp=0, tn=1513
+accuracy=0.9895356442119032; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 57
+Confusion matrix:
+[[1452    0]
+ [  77    0]]
+tp=0, fn=77, fp=0, tn=1452
+accuracy=0.9496402877697842; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 58
+Confusion matrix:
+[[1512    1]
+ [   6   10]]
+tp=10, fn=6, fp=1, tn=1512
+accuracy=0.9954218443427076; recall=0.625; precision=0.9090909090909091; f1_score= 0.7407407407407406
+
+----------
+
+DecisionTree FOR STATION 59
+Confusion matrix:
+[[1526    0]
+ [   3    0]]
+tp=0, fn=3, fp=0, tn=1526
+accuracy=0.9980379332897319; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 60
+Confusion matrix:
+[[1456    0]
+ [  73    0]]
+tp=0, fn=73, fp=0, tn=1456
+accuracy=0.9522563767168084; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 61
+Confusion matrix:
+[[1524    0]
+ [   5    0]]
+tp=0, fn=5, fp=0, tn=1524
+accuracy=0.9967298888162197; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 62
+Confusion matrix:
+[[1523    3]
+ [   2    1]]
+tp=1, fn=2, fp=3, tn=1523
+accuracy=0.9967298888162197; recall=0.3333333333333333; precision=0.25; f1_score= 0.28571428571428575
+
+----------
+
+DecisionTree FOR STATION 63
+Confusion matrix:
+[[1451    0]
+ [  78    0]]
+tp=0, fn=78, fp=0, tn=1451
+accuracy=0.9489862655330281; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 64
+Confusion matrix:
+[[1481    0]
+ [  48    0]]
+tp=0, fn=48, fp=0, tn=1481
+accuracy=0.9686069326357096; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 65
+Confusion matrix:
+[[1464    0]
+ [  65    0]]
+tp=0, fn=65, fp=0, tn=1464
+accuracy=0.9574885546108568; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 66
+Confusion matrix:
+[[1513    0]
+ [  16    0]]
+tp=0, fn=16, fp=0, tn=1513
+accuracy=0.9895356442119032; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 67
+Confusion matrix:
+[[1529    0]
+ [   0    0]]
+tp=0, fn=0, fp=0, tn=1529
+accuracy=1.0; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 68
+Confusion matrix:
+[[1490    0]
+ [  39    0]]
+tp=0, fn=39, fp=0, tn=1490
+accuracy=0.9744931327665141; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 69
+Confusion matrix:
+[[1427    0]
+ [ 102    0]]
+tp=0, fn=102, fp=0, tn=1427
+accuracy=0.9332897318508829; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 70
+Confusion matrix:
+[[1519    0]
+ [  10    0]]
+tp=0, fn=10, fp=0, tn=1519
+accuracy=0.9934597776324395; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 71
+Confusion matrix:
+[[1480    0]
+ [  49    0]]
+tp=0, fn=49, fp=0, tn=1480
+accuracy=0.9679529103989536; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 72
+Confusion matrix:
+[[1481    8]
+ [  40    0]]
+tp=0, fn=40, fp=8, tn=1481
+accuracy=0.9686069326357096; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 73
+Confusion matrix:
+[[1420    0]
+ [ 109    0]]
+tp=0, fn=109, fp=0, tn=1420
+accuracy=0.9287115761935906; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 74
+Confusion matrix:
+[[1451    0]
+ [  78    0]]
+tp=0, fn=78, fp=0, tn=1451
+accuracy=0.9489862655330281; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 75
+Confusion matrix:
+[[1503    0]
+ [  26    0]]
+tp=0, fn=26, fp=0, tn=1503
+accuracy=0.9829954218443427; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+DecisionTree FOR STATION 76
+Confusion matrix:
+[[1466   19]
+ [  30   14]]
+tp=14, fn=30, fp=19, tn=1466
+accuracy=0.9679529103989536; recall=0.3181818181818182; precision=0.42424242424242425; f1_score= 0.36363636363636365
+
+----------
+
+DecisionTree FOR STATION 77
+Confusion matrix:
+[[1467   19]
+ [  40    3]]
+tp=3, fn=40, fp=19, tn=1467
+accuracy=0.961412688031393; recall=0.06976744186046512; precision=0.13636363636363635; f1_score= 0.09230769230769229
+
+----------
+
+DecisionTree FOR STATION 82
+Confusion matrix:
+[[1410   10]
+ [ 101    8]]
+tp=8, fn=101, fp=10, tn=1410
+accuracy=0.9274035317200785; recall=0.07339449541284404; precision=0.4444444444444444; f1_score= 0.12598425196850396
+
+----------
+
+AVERAGE VALUES FOR DecisionTree TEST:
+Confusion matrix:
+[[51746 91]
+[1607 71]]
+tot_tp=71, tot_fn=1607, tot_fp=91, tot_tn=51746
+accuracy=0.9682705783425208; recall=0.04231227651966627; precision=0.4382716049382716; f1_score=0.07717391304347826
+

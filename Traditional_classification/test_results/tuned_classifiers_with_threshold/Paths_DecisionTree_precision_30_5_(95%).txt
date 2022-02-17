@@ -1,0 +1,2158 @@
+DECISION PATHS FOR DECISION TREE CLASSIFIER WITH THRESHOLD 95%:
+
+------------------------   STATION 58   -----------------------------
+
+Regole usate per predire il record 0:
+decision node 0 : (bikes_av_58_T0 = 16.966666666666665) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 9.733333333333333) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 3.6) <= 12.066667079925537
+
+Regole usate per predire il record 1:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 9.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 4.033333333333333) <= 12.066667079925537
+
+Regole usate per predire il record 2:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 8.2) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 4.366666666666666) <= 12.066667079925537
+
+Regole usate per predire il record 3:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 7.2) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.0) <= 12.066667079925537
+
+Regole usate per predire il record 4:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.0) <= 12.066667079925537
+
+Regole usate per predire il record 5:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.8) <= 12.066667079925537
+
+Regole usate per predire il record 6:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.1) <= 12.066667079925537
+
+Regole usate per predire il record 7:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.3) <= 12.066667079925537
+
+Regole usate per predire il record 8:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.333333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 9:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.266666666666667) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.166666666666668) <= 12.066667079925537
+
+Regole usate per predire il record 10:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.533333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 11:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.3) <= 12.066667079925537
+
+Regole usate per predire il record 12:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.166666666666668) <= 12.066667079925537
+
+Regole usate per predire il record 13:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.066666666666666) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.366666666666666) <= 12.066667079925537
+
+Regole usate per predire il record 14:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.5) <= 12.066667079925537
+
+Regole usate per predire il record 15:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.5) <= 12.066667079925537
+
+Regole usate per predire il record 16:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.333333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 17:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.633333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 18:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.333333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 19:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.333333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 20:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.166666666666668) <= 12.066667079925537
+
+Regole usate per predire il record 21:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.333333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 22:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.166666666666668) <= 12.066667079925537
+
+Regole usate per predire il record 23:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.066666666666666) <= 12.066667079925537
+
+Regole usate per predire il record 24:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.5) <= 12.066667079925537
+
+Regole usate per predire il record 25:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.866666666666666) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.7666666666666675) <= 12.066667079925537
+
+Regole usate per predire il record 26:
+decision node 0 : (bikes_av_58_T0 = 17.166666666666668) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.333333333333332) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 2.7333333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 27:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 9.266666666666667) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 2.9) <= 12.066667079925537
+
+Regole usate per predire il record 28:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.166666666666666) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.433333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 29:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.1) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 4.966666666666667) <= 12.066667079925537
+
+Regole usate per predire il record 30:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 9.8) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 4.8) <= 12.066667079925537
+
+Regole usate per predire il record 31:
+decision node 0 : (bikes_av_58_T0 = 16.366666666666667) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.866666666666666) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 10.433333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 32:
+decision node 0 : (bikes_av_58_T0 = 16.866666666666667) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 10.266666666666667) <= 12.066667079925537
+
+Regole usate per predire il record 33:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 8.533333333333333) <= 12.066667079925537
+
+Regole usate per predire il record 34:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 8.233333333333333) <= 12.066667079925537
+
+Regole usate per predire il record 35:
+decision node 0 : (bikes_av_58_T0 = 16.366666666666667) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.866666666666666) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.2) <= 12.066667079925537
+
+Regole usate per predire il record 36:
+decision node 0 : (bikes_av_58_T0 = 16.666666666666668) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 8.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 3.733333333333333) <= 12.066667079925537
+
+Regole usate per predire il record 37:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 7.333333333333332) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 4.166666666666667) <= 12.066667079925537
+
+Regole usate per predire il record 38:
+decision node 0 : (bikes_av_58_T0 = 17.9) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 7.133333333333334) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 3.8666666666666663) <= 12.066667079925537
+
+Regole usate per predire il record 39:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 6.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 3.8666666666666663) <= 12.066667079925537
+
+Regole usate per predire il record 40:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.7333333333333325) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.2) <= 12.066667079925537
+
+Regole usate per predire il record 41:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.0) <= 12.066667079925537
+
+Regole usate per predire il record 42:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.0) <= 12.066667079925537
+
+Regole usate per predire il record 43:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.0) <= 12.066667079925537
+
+Regole usate per predire il record 44:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.433333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 45:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 3.3) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.033333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 46:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 2.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 8.0) <= 12.066667079925537
+
+Regole usate per predire il record 47:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 2.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 8.0) <= 12.066667079925537
+
+Regole usate per predire il record 48:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.3) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.2) <= 12.066667079925537
+
+Regole usate per predire il record 49:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 50:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 51:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 52:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 53:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 54:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 55:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 56:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 57:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 58:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 59:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 60:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 1.9) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.066666666666666) <= 12.066667079925537
+
+Regole usate per predire il record 61:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 2.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.7) <= 12.066667079925537
+
+Regole usate per predire il record 62:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 2.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.0) <= 12.066667079925537
+
+Regole usate per predire il record 63:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 2.433333333333333) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 7.2333333333333325) <= 12.066667079925537
+
+Regole usate per predire il record 64:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 3.7) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 9.6) <= 12.066667079925537
+
+Regole usate per predire il record 65:
+decision node 0 : (bikes_av_58_T0 = 16.666666666666668) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 4.1) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 8.433333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 66:
+decision node 0 : (bikes_av_58_T0 = 17.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 10.933333333333335) <= 12.066667079925537
+
+Regole usate per predire il record 67:
+decision node 0 : (bikes_av_58_T0 = 17.733333333333334) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 11.933333333333335) <= 12.066667079925537
+
+Regole usate per predire il record 68:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 10.833333333333336) <= 12.066667079925537
+
+Regole usate per predire il record 69:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 11.133333333333333) <= 12.066667079925537
+
+Regole usate per predire il record 70:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 11.433333333333335) <= 12.066667079925537
+
+Regole usate per predire il record 71:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 10.566666666666666) <= 12.066667079925537
+
+Regole usate per predire il record 72:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 10.3) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.233333333333333) <= 12.066667079925537
+
+Regole usate per predire il record 73:
+decision node 0 : (bikes_av_58_T0 = 17.066666666666666) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 9.9) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.933333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 74:
+decision node 0 : (bikes_av_58_T0 = 16.533333333333335) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 4.1) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 6.033333333333332) <= 12.066667079925537
+
+Regole usate per predire il record 75:
+decision node 0 : (bikes_av_58_T0 = 17.966666666666665) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 4.0) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.166666666666667) <= 12.066667079925537
+
+Regole usate per predire il record 76:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 5.466666666666668) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 5.133333333333334) <= 12.066667079925537
+
+Regole usate per predire il record 77:
+decision node 0 : (bikes_av_58_T0 = 18.0) > 16.15000057220459
+decision node 6 : (docks_av_57_T0 = 7.5) <= 10.333333492279053
+decision node 7 : (bikes_av_60_T0 = 2.466666666666667) <= 12.066667079925537
+
+------------------------   STATION 59   -----------------------------
+
+Regole usate per predire il record 0:
+decision node 0 : (docks_av_59_T0 = 2.0) <= 2.6500000953674316
+decision node 1 : (bikes_av_54_T0 = 14.0) > 13.100000381469727
+
+Regole usate per predire il record 1:
+decision node 0 : (docks_av_59_T0 = 2.0) <= 2.6500000953674316
+decision node 1 : (bikes_av_54_T0 = 14.0) > 13.100000381469727
+
+Regole usate per predire il record 2:
+decision node 0 : (docks_av_59_T0 = 2.0) <= 2.6500000953674316
+decision node 1 : (bikes_av_54_T0 = 14.0) > 13.100000381469727
+
+Regole usate per predire il record 3:
+decision node 0 : (docks_av_59_T0 = 2.0) <= 2.6500000953674316
+decision node 1 : (bikes_av_54_T0 = 14.0) > 13.100000381469727
+
+------------------------   STATION 63   -----------------------------
+
+Regole usate per predire il record 0:
+decision node 0 : (docks_av_63_T0 = 3.0) > 2.816666603088379
+decision node 8 : (docks_av_63_T0 = 3.0) <= 3.7166666984558105
+decision node 9 : (bikes_av_71_T2 = 17.0) > 16.40000009536743
+
+Regole usate per predire il record 1:
+decision node 0 : (docks_av_63_T0 = 3.3666666666666667) > 2.816666603088379
+decision node 8 : (docks_av_63_T0 = 3.3666666666666667) <= 3.7166666984558105
+decision node 9 : (bikes_av_71_T2 = 18.33333333333333) > 16.40000009536743
+
+------------------------   STATION 66   -----------------------------
+
+Regole usate per predire il record 0:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 1:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 2:
+decision node 0 : (docks_av_66_T0 = 0.7666666666666667) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.7666666666666667) <= 1.0166666507720947
+
+Regole usate per predire il record 3:
+decision node 0 : (docks_av_66_T0 = 0.3333333333333333) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.3333333333333333) <= 1.0166666507720947
+
+Regole usate per predire il record 4:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 5:
+decision node 0 : (docks_av_66_T0 = 0.9333333333333332) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.9333333333333332) <= 1.0166666507720947
+
+Regole usate per predire il record 6:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 7:
+decision node 0 : (docks_av_66_T0 = 0.16666666666666666) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.16666666666666666) <= 1.0166666507720947
+
+Regole usate per predire il record 8:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 9:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 10:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 11:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 12:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 13:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 14:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 15:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 16:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 17:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 18:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 19:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 20:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 21:
+decision node 0 : (docks_av_66_T0 = 0.6666666666666666) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.6666666666666666) <= 1.0166666507720947
+
+Regole usate per predire il record 22:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 23:
+decision node 0 : (docks_av_66_T0 = 0.16666666666666666) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.16666666666666666) <= 1.0166666507720947
+
+Regole usate per predire il record 24:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 25:
+decision node 0 : (docks_av_66_T0 = 0.36666666666666653) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.36666666666666653) <= 1.0166666507720947
+
+Regole usate per predire il record 26:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 27:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 28:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 29:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 30:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 31:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 32:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 33:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 34:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 35:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 36:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 37:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 38:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 39:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 40:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 41:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 42:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 43:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 44:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 45:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 46:
+decision node 0 : (docks_av_66_T0 = 0.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.0) <= 1.0166666507720947
+
+Regole usate per predire il record 47:
+decision node 0 : (docks_av_66_T0 = 0.06666666666666668) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 0.06666666666666668) <= 1.0166666507720947
+
+Regole usate per predire il record 48:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 49:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 50:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 51:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 52:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 53:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 54:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 55:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 56:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 57:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 58:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 59:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 60:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 61:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 62:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 63:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+Regole usate per predire il record 64:
+decision node 0 : (docks_av_66_T0 = 1.0) <= 2.0166666507720947
+decision node 1 : (docks_av_66_T0 = 1.0) <= 1.0166666507720947
+
+------------------------   STATION 72   -----------------------------
+
+Regole usate per predire il record 0:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 1:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 2:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 3:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 4:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 5:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 6:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 7:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 8:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 9:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 10:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 11:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 12:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 13:
+decision node 0 : (docks_av_72_T0 = 0.5333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.5333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.466666666666665) > 21.983333587646484
+
+Regole usate per predire il record 14:
+decision node 0 : (docks_av_72_T0 = 0.9333333333333332) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.9333333333333332) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.066666666666666) > 21.983333587646484
+
+Regole usate per predire il record 15:
+decision node 0 : (docks_av_72_T0 = 0.6666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.6666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.33333333333333) > 21.983333587646484
+
+Regole usate per predire il record 16:
+decision node 0 : (docks_av_72_T0 = 0.06666666666666668) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.06666666666666668) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.93333333333333) > 21.983333587646484
+
+Regole usate per predire il record 17:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 18:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 19:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 20:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 21:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 22:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 23:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 24:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 25:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 26:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 27:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 28:
+decision node 0 : (docks_av_72_T0 = 0.2) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.2) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.8) > 21.983333587646484
+
+Regole usate per predire il record 29:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 30:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 31:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 32:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 33:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 34:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 35:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 36:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 37:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 38:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 39:
+decision node 0 : (docks_av_72_T0 = 0.36666666666666653) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.36666666666666653) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.63333333333333) > 21.983333587646484
+
+Regole usate per predire il record 40:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 41:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 42:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 43:
+decision node 0 : (docks_av_72_T0 = 0.13333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.13333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.86666666666667) > 21.983333587646484
+
+Regole usate per predire il record 44:
+decision node 0 : (docks_av_72_T0 = 0.5333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.5333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.466666666666665) > 21.983333587646484
+
+Regole usate per predire il record 45:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 46:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 47:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 48:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 49:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 50:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 51:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 52:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 53:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 54:
+decision node 0 : (docks_av_72_T0 = 0.9) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.9) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.1) > 21.983333587646484
+
+Regole usate per predire il record 55:
+decision node 0 : (docks_av_72_T0 = 0.6333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.6333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.36666666666667) > 21.983333587646484
+
+Regole usate per predire il record 56:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 57:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 58:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 59:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 60:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 61:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 62:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 63:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 64:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 65:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 66:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 67:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 68:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 69:
+decision node 0 : (docks_av_72_T0 = 0.06666666666666668) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.06666666666666668) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.93333333333333) > 21.983333587646484
+
+Regole usate per predire il record 70:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 71:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 72:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 73:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 74:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 75:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 76:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 77:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 78:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 79:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 80:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 81:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 82:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 83:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 84:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 85:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 86:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 87:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 88:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 89:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 90:
+decision node 0 : (docks_av_72_T0 = 0.6666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.6666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.33333333333333) > 21.983333587646484
+
+Regole usate per predire il record 91:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 92:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 93:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 94:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 95:
+decision node 0 : (docks_av_72_T0 = 0.1) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.1) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.9) > 21.983333587646484
+
+Regole usate per predire il record 96:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 97:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 98:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 99:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 100:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 101:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 102:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 103:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 104:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 105:
+decision node 0 : (docks_av_72_T0 = 0.8666666666666667) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.8666666666666667) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.13333333333333) > 21.983333587646484
+
+Regole usate per predire il record 106:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 107:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 108:
+decision node 0 : (docks_av_72_T0 = 0.7) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.7) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.3) > 21.983333587646484
+
+Regole usate per predire il record 109:
+decision node 0 : (docks_av_72_T0 = 0.7333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.7333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.266666666666666) > 21.983333587646484
+
+Regole usate per predire il record 110:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 111:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 112:
+decision node 0 : (docks_av_72_T0 = 0.16666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.16666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.83333333333333) > 21.983333587646484
+
+Regole usate per predire il record 113:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 114:
+decision node 0 : (docks_av_72_T0 = 0.5666666666666667) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.5666666666666667) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.43333333333333) > 21.983333587646484
+
+Regole usate per predire il record 115:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 116:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 117:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 118:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 119:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 120:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 121:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 122:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 123:
+decision node 0 : (docks_av_72_T0 = 0.36666666666666653) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.36666666666666653) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.63333333333333) > 21.983333587646484
+
+Regole usate per predire il record 124:
+decision node 0 : (docks_av_72_T0 = 0.9) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.9) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.1) > 21.983333587646484
+
+Regole usate per predire il record 125:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 126:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 127:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 128:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 129:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 130:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 131:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 132:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 133:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 134:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 135:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 136:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 137:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 138:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 139:
+decision node 0 : (docks_av_72_T0 = 0.5666666666666667) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.5666666666666667) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.43333333333333) > 21.983333587646484
+
+Regole usate per predire il record 140:
+decision node 0 : (docks_av_72_T0 = 0.4666666666666667) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.4666666666666667) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.53333333333333) > 21.983333587646484
+
+Regole usate per predire il record 141:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 142:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 143:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 144:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 145:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 146:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 147:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 148:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 149:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 150:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 151:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 152:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 153:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 154:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 155:
+decision node 0 : (docks_av_72_T0 = 0.43333333333333335) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.43333333333333335) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.566666666666666) > 21.983333587646484
+
+Regole usate per predire il record 156:
+decision node 0 : (docks_av_72_T0 = 0.36666666666666653) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.36666666666666653) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.63333333333333) > 21.983333587646484
+
+Regole usate per predire il record 157:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 158:
+decision node 0 : (docks_av_72_T0 = 0.06666666666666668) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.06666666666666668) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.93333333333333) > 21.983333587646484
+
+Regole usate per predire il record 159:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 160:
+decision node 0 : (docks_av_72_T0 = 0.2) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.2) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.8) > 21.983333587646484
+
+Regole usate per predire il record 161:
+decision node 0 : (docks_av_72_T0 = 0.4) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.4) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.6) > 21.983333587646484
+
+Regole usate per predire il record 162:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 163:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 164:
+decision node 0 : (docks_av_72_T0 = 0.16666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.16666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.83333333333333) > 21.983333587646484
+
+Regole usate per predire il record 165:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 166:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 167:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 168:
+decision node 0 : (docks_av_72_T0 = 0.26666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.26666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.73333333333333) > 21.983333587646484
+
+Regole usate per predire il record 169:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 170:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 171:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 172:
+decision node 0 : (docks_av_72_T0 = 0.5333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.5333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.466666666666665) > 21.983333587646484
+
+Regole usate per predire il record 173:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 174:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 175:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 176:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 177:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 178:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 179:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 180:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 181:
+decision node 0 : (docks_av_72_T0 = 0.13333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.13333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.86666666666667) > 21.983333587646484
+
+Regole usate per predire il record 182:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 183:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 184:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 185:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 186:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 187:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 188:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 189:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 190:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 191:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 192:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 193:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 194:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 195:
+decision node 0 : (docks_av_72_T0 = 0.06666666666666668) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.06666666666666668) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.93333333333333) > 21.983333587646484
+
+Regole usate per predire il record 196:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 197:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 198:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 199:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 200:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 201:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 202:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 203:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 204:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 205:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 206:
+decision node 0 : (docks_av_72_T0 = 0.13333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.13333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.86666666666667) > 21.983333587646484
+
+Regole usate per predire il record 207:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 208:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 209:
+decision node 0 : (docks_av_72_T0 = 0.16666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.16666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.83333333333333) > 21.983333587646484
+
+Regole usate per predire il record 210:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 211:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 212:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 213:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 214:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 215:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 216:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 217:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 218:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 219:
+decision node 0 : (docks_av_72_T0 = 0.3) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.3) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.7) > 21.983333587646484
+
+Regole usate per predire il record 220:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 221:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 222:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 223:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 224:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 225:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 226:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 227:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 228:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 229:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 230:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 231:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 232:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 233:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 234:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 235:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 236:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 237:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 238:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 239:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 240:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 241:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 242:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 243:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 244:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 245:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 246:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 247:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 248:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 249:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 250:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 251:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 252:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 253:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 254:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 255:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 256:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 257:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 258:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 259:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 260:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 261:
+decision node 0 : (docks_av_72_T0 = 0.3) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.3) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.7) > 21.983333587646484
+
+Regole usate per predire il record 262:
+decision node 0 : (docks_av_72_T0 = 0.26666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.26666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.73333333333333) > 21.983333587646484
+
+Regole usate per predire il record 263:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 264:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 265:
+decision node 0 : (docks_av_72_T0 = 0.26666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.26666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.73333333333333) > 21.983333587646484
+
+Regole usate per predire il record 266:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
+Regole usate per predire il record 267:
+decision node 0 : (docks_av_72_T0 = 0.6333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.6333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.36666666666667) > 21.983333587646484
+
+Regole usate per predire il record 268:
+decision node 0 : (docks_av_72_T0 = 0.2333333333333333) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.2333333333333333) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.766666666666666) > 21.983333587646484
+
+Regole usate per predire il record 269:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 270:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 271:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 272:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 273:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 274:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 275:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 276:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 277:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 278:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 279:
+decision node 0 : (docks_av_72_T0 = 0.6666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.6666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.33333333333333) > 21.983333587646484
+
+Regole usate per predire il record 280:
+decision node 0 : (docks_av_72_T0 = 0.16666666666666666) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.16666666666666666) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.83333333333333) > 21.983333587646484
+
+Regole usate per predire il record 281:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 282:
+decision node 0 : (docks_av_72_T0 = 0.5) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.5) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.5) > 21.983333587646484
+
+Regole usate per predire il record 283:
+decision node 0 : (docks_av_72_T0 = 0.9) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.9) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.1) > 21.983333587646484
+
+Regole usate per predire il record 284:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 285:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 286:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 287:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 288:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 289:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 290:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 291:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 292:
+decision node 0 : (docks_av_72_T0 = 1.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 1.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 22.0) > 21.983333587646484
+
+Regole usate per predire il record 293:
+decision node 0 : (docks_av_72_T0 = 0.0) <= 2.9166667461395264
+decision node 1 : (docks_av_72_T0 = 0.0) <= 2.0166666507720947
+decision node 2 : (bikes_av_72_T0 = 23.0) > 21.983333587646484
+
