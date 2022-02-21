@@ -1,5 +1,6 @@
 # Fase di estrazione e filtraggio dei pattern
 
+#### EXTRACTION NOTEBOOKS
 - Il Notebook "AllStates.ipynb" contiene il codice relativo all'estrazione
 dei pattern considerando tutte le occorrenze di tutti gli stati critici. Variando i parametri a 
 disposizione, si sono ottenute diverse configurazioni usate per l'estrazione.
@@ -68,6 +69,7 @@ per ogni file in input, vengono salvati i plot "supporto-confidenza" ed un plot
 che mostra la distribuzione dei pattern ottenuti dopo il filtraggio, in base alla 
 loro confidenza.
 
+#### RESULT FOLDERS
 - Nella cartella "Results_extraction" sono contenuti tutti i pattern estratti dalle
 varie configurazioni utilizzate.
 
