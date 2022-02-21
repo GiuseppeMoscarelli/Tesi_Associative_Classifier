@@ -1,0 +1,2 @@
+Filtered Pattern, Confidence-Frequence
+Total number of input patterns: 0

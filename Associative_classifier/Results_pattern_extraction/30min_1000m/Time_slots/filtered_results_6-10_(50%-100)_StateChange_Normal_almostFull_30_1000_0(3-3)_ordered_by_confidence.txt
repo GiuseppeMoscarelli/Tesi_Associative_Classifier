@@ -1,0 +1,5 @@
+Filtered Pattern, Confidence-Frequence
+Total number of input patterns: 3
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_2,QuasiPiena_T0_2,QuasiPiena_T0_1'], ['QuasiPiena_T1_0']]], ['0.5131995776135164 - 972']]
+[[[['QuasiPiena_T0_0,Normal_T0_2,QuasiPiena_T0_1,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5063103192279139 - 682']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_1,QuasiPiena_T0_1,QuasiPiena_T0_1'], ['QuasiPiena_T1_0']]], ['0.5 - 277']]

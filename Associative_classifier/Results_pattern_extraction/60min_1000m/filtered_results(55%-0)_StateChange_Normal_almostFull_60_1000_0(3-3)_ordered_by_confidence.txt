@@ -1,0 +1,3 @@
+Filtered Pattern, Confidence-Frequence
+Total number of input patterns: 1
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_3,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5743519781718963 - 421']]

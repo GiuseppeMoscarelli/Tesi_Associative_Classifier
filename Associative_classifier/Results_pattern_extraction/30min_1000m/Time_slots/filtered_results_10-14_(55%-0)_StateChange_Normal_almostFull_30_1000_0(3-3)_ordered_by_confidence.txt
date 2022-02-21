@@ -1,0 +1,13 @@
+Filtered Pattern, Confidence-Frequence
+Total number of input patterns: 11
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_3,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.725 - 29']]
+[[[['QuasiPiena_T0_0,Normal_T0_3,Normal_T0_3,Normal_T0_3'], ['QuasiPiena_T1_0']]], ['0.6111111111111112 - 33']]
+[[[['Normal_T0_0'], ['QuasiPiena_T1_0,QuasiPiena_T1_3,QuasiPiena_T1_3'], ['QuasiPiena_T2_0']]], ['0.6021505376344086 - 56']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_2,QuasiPiena_T0_2,QuasiPiena_T0_2'], ['QuasiPiena_T1_0']]], ['0.583969465648855 - 153']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5657370517928287 - 142']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_2,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5630252100840336 - 67']]
+[[[['QuasiPiena_T0_0,Normal_T0_3,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5583756345177665 - 110']]
+[[[['Normal_T0_0,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0'], ['QuasiPiena_T2_0']]], ['0.5576923076923077 - 58']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_1,QuasiPiena_T0_1,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5568181818181818 - 98']]
+[[[['Normal_T0_0,QuasiPiena_T0_0,QuasiPiena_T0_3,QuasiPiena_T0_3'], ['QuasiPiena_T1_0']]], ['0.5555555555555556 - 90']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_1,QuasiPiena_T0_1,Normal_T0_3'], ['QuasiPiena_T1_0']]], ['0.5519125683060109 - 101']]
