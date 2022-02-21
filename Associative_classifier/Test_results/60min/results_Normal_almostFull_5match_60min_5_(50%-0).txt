@@ -1,0 +1,323 @@
+PATTERN TESING RESULTS:
+
+PATTERN TEST FOR STATION 39
+Confusion matrix:
+[[3759   67]
+ [  68  184]]
+tp=184, fn=68, fp=67, tn=3759
+accuracy=0.9668955370279548; recall=0.7301587301587301; precision=0.7330677290836654; f1_score= 0.7316103379721671
+
+----------
+
+PATTERN TEST FOR STATION 41
+Confusion matrix:
+[[3972   36]
+ [  36   34]]
+tp=34, fn=36, fp=36, tn=3972
+accuracy=0.9823442864149092; recall=0.4857142857142857; precision=0.4857142857142857; f1_score= 0.4857142857142857
+
+----------
+
+PATTERN TEST FOR STATION 42
+Confusion matrix:
+[[3951   36]
+ [  37   54]]
+tp=54, fn=37, fp=36, tn=3951
+accuracy=0.9820990681706719; recall=0.5934065934065934; precision=0.6; f1_score= 0.5966850828729282
+
+----------
+
+PATTERN TEST FOR STATION 45
+Confusion matrix:
+[[3978   35]
+ [  36   29]]
+tp=29, fn=36, fp=35, tn=3978
+accuracy=0.9825895046591466; recall=0.4461538461538462; precision=0.453125; f1_score= 0.4496124031007752
+
+----------
+
+PATTERN TEST FOR STATION 46
+Confusion matrix:
+[[3769   49]
+ [  49  211]]
+tp=211, fn=49, fp=49, tn=3769
+accuracy=0.9759686120647376; recall=0.8115384615384615; precision=0.8115384615384615; f1_score= 0.8115384615384615
+
+----------
+
+PATTERN TEST FOR STATION 47
+Confusion matrix:
+[[4003   15]
+ [  16   44]]
+tp=44, fn=16, fp=15, tn=4003
+accuracy=0.9923982344286415; recall=0.7333333333333333; precision=0.7457627118644068; f1_score= 0.7394957983193278
+
+----------
+
+PATTERN TEST FOR STATION 48
+Confusion matrix:
+[[3888   59]
+ [  57   74]]
+tp=74, fn=57, fp=59, tn=3888
+accuracy=0.971554683668465; recall=0.5648854961832062; precision=0.556390977443609; f1_score= 0.5606060606060607
+
+----------
+
+PATTERN TEST FOR STATION 49
+Confusion matrix:
+[[3991   19]
+ [  18   50]]
+tp=50, fn=18, fp=19, tn=3991
+accuracy=0.9909269249632172; recall=0.7352941176470589; precision=0.7246376811594203; f1_score= 0.7299270072992701
+
+----------
+
+PATTERN TEST FOR STATION 50
+Confusion matrix:
+[[3839   76]
+ [  75   88]]
+tp=88, fn=75, fp=76, tn=3839
+accuracy=0.962972045120157; recall=0.5398773006134969; precision=0.5365853658536586; f1_score= 0.5382262996941897
+
+----------
+
+PATTERN TEST FOR STATION 51
+Confusion matrix:
+[[3994   28]
+ [  28   28]]
+tp=28, fn=28, fp=28, tn=3994
+accuracy=0.9862677783227072; recall=0.5; precision=0.5; f1_score= 0.5
+
+----------
+
+PATTERN TEST FOR STATION 54
+Confusion matrix:
+[[3458  112]
+ [ 112  396]]
+tp=396, fn=112, fp=112, tn=3458
+accuracy=0.9450711132908288; recall=0.7795275590551181; precision=0.7795275590551181; f1_score= 0.7795275590551181
+
+----------
+
+PATTERN TEST FOR STATION 55
+Confusion matrix:
+[[3986   23]
+ [  22   47]]
+tp=47, fn=22, fp=23, tn=3986
+accuracy=0.9889651790093182; recall=0.6811594202898551; precision=0.6714285714285714; f1_score= 0.6762589928057554
+
+----------
+
+PATTERN TEST FOR STATION 56
+Confusion matrix:
+[[4048    9]
+ [   9   12]]
+tp=12, fn=9, fp=9, tn=4048
+accuracy=0.9955860716037274; recall=0.5714285714285714; precision=0.5714285714285714; f1_score= 0.5714285714285714
+
+----------
+
+PATTERN TEST FOR STATION 57
+Confusion matrix:
+[[3796   55]
+ [  55  172]]
+tp=172, fn=55, fp=55, tn=3796
+accuracy=0.9730259931338892; recall=0.7577092511013216; precision=0.7577092511013216; f1_score= 0.7577092511013216
+
+----------
+
+PATTERN TEST FOR STATION 58
+Confusion matrix:
+[[4026    6]
+ [   6   40]]
+tp=40, fn=6, fp=6, tn=4026
+accuracy=0.9970573810691515; recall=0.8695652173913043; precision=0.8695652173913043; f1_score= 0.8695652173913043
+
+----------
+
+PATTERN TEST FOR STATION 59
+Confusion matrix:
+[[4070    3]
+ [   3    2]]
+tp=2, fn=3, fp=3, tn=4070
+accuracy=0.9985286905345758; recall=0.4; precision=0.4; f1_score= 0.4000000000000001
+
+----------
+
+PATTERN TEST FOR STATION 60
+Confusion matrix:
+[[3759  114]
+ [ 112   93]]
+tp=93, fn=112, fp=114, tn=3759
+accuracy=0.9445806768023541; recall=0.45365853658536587; precision=0.4492753623188406; f1_score= 0.45145631067961167
+
+----------
+
+PATTERN TEST FOR STATION 61
+Confusion matrix:
+[[3982   23]
+ [  23   50]]
+tp=50, fn=23, fp=23, tn=3982
+accuracy=0.988719960765081; recall=0.684931506849315; precision=0.684931506849315; f1_score= 0.684931506849315
+
+----------
+
+PATTERN TEST FOR STATION 62
+Confusion matrix:
+[[4070    4]
+ [   4    0]]
+tp=0, fn=4, fp=4, tn=4070
+accuracy=0.998038254046101; recall=0.0; precision=0.0; f1_score= 0.0
+
+----------
+
+PATTERN TEST FOR STATION 63
+Confusion matrix:
+[[3937   51]
+ [  50   40]]
+tp=40, fn=50, fp=51, tn=3937
+accuracy=0.9752329573320255; recall=0.4444444444444444; precision=0.43956043956043955; f1_score= 0.441988950276243
+
+----------
+
+PATTERN TEST FOR STATION 64
+Confusion matrix:
+[[3938   44]
+ [  44   52]]
+tp=52, fn=44, fp=44, tn=3938
+accuracy=0.9784207945071113; recall=0.5416666666666666; precision=0.5416666666666666; f1_score= 0.5416666666666666
+
+----------
+
+PATTERN TEST FOR STATION 65
+Confusion matrix:
+[[3845   59]
+ [  57  117]]
+tp=117, fn=57, fp=59, tn=3845
+accuracy=0.971554683668465; recall=0.6724137931034483; precision=0.6647727272727273; f1_score= 0.6685714285714287
+
+----------
+
+PATTERN TEST FOR STATION 66
+Confusion matrix:
+[[3977   20]
+ [  19   62]]
+tp=62, fn=19, fp=20, tn=3977
+accuracy=0.9904364884747425; recall=0.7654320987654321; precision=0.7560975609756098; f1_score= 0.7607361963190185
+
+----------
+
+PATTERN TEST FOR STATION 67
+Confusion matrix:
+[[4071    3]
+ [   3    1]]
+tp=1, fn=3, fp=3, tn=4071
+accuracy=0.9985286905345758; recall=0.25; precision=0.25; f1_score= 0.25
+
+----------
+
+PATTERN TEST FOR STATION 68
+Confusion matrix:
+[[3977   25]
+ [  24   52]]
+tp=52, fn=24, fp=25, tn=3977
+accuracy=0.9879843060323688; recall=0.6842105263157895; precision=0.6753246753246753; f1_score= 0.6797385620915033
+
+----------
+
+PATTERN TEST FOR STATION 69
+Confusion matrix:
+[[3886   47]
+ [  46   99]]
+tp=99, fn=46, fp=47, tn=3886
+accuracy=0.9771947032859245; recall=0.6827586206896552; precision=0.678082191780822; f1_score= 0.6804123711340206
+
+----------
+
+PATTERN TEST FOR STATION 70
+Confusion matrix:
+[[3883   49]
+ [  49   97]]
+tp=97, fn=49, fp=49, tn=3883
+accuracy=0.9759686120647376; recall=0.6643835616438356; precision=0.6643835616438356; f1_score= 0.6643835616438356
+
+----------
+
+PATTERN TEST FOR STATION 71
+Confusion matrix:
+[[3965   32]
+ [  31   50]]
+tp=50, fn=31, fp=32, tn=3965
+accuracy=0.9845512506130456; recall=0.6172839506172839; precision=0.6097560975609756; f1_score= 0.6134969325153374
+
+----------
+
+PATTERN TEST FOR STATION 72
+Confusion matrix:
+[[3726   60]
+ [  60  232]]
+tp=232, fn=60, fp=60, tn=3726
+accuracy=0.9705738106915155; recall=0.7945205479452054; precision=0.7945205479452054; f1_score= 0.7945205479452053
+
+----------
+
+PATTERN TEST FOR STATION 73
+Confusion matrix:
+[[3526  104]
+ [ 106  342]]
+tp=342, fn=106, fp=104, tn=3526
+accuracy=0.9485041687101521; recall=0.7633928571428571; precision=0.7668161434977578; f1_score= 0.7651006711409396
+
+----------
+
+PATTERN TEST FOR STATION 74
+Confusion matrix:
+[[3841   44]
+ [  43  150]]
+tp=150, fn=43, fp=44, tn=3841
+accuracy=0.9786660127513487; recall=0.7772020725388601; precision=0.7731958762886598; f1_score= 0.7751937984496123
+
+----------
+
+PATTERN TEST FOR STATION 75
+Confusion matrix:
+[[4045   13]
+ [  13    7]]
+tp=7, fn=13, fp=13, tn=4045
+accuracy=0.9936243256498284; recall=0.35; precision=0.35; f1_score= 0.35
+
+----------
+
+PATTERN TEST FOR STATION 76
+Confusion matrix:
+[[3984   24]
+ [  25   45]]
+tp=45, fn=25, fp=24, tn=3984
+accuracy=0.9879843060323688; recall=0.6428571428571429; precision=0.6521739130434783; f1_score= 0.6474820143884892
+
+----------
+
+PATTERN TEST FOR STATION 77
+Confusion matrix:
+[[4021   16]
+ [  16   25]]
+tp=25, fn=16, fp=16, tn=4021
+accuracy=0.9921530161844041; recall=0.6097560975609756; precision=0.6097560975609756; f1_score= 0.6097560975609756
+
+----------
+
+PATTERN TEST FOR STATION 82
+Confusion matrix:
+[[3923   55]
+ [  54   46]]
+tp=46, fn=54, fp=55, tn=3923
+accuracy=0.9732712113781266; recall=0.46; precision=0.45544554455445546; f1_score= 0.4577114427860697
+
+----------
+
+AVERAGE VALUES FOR PATTERN TEST:
+Confusion matrix:
+[[136884 1415]
+[1406 3025]]
+tot_tp=3025, tot_fn=1406, tot_fp=1415, tot_tn=136884
+accuracy=0.9802354095144679; recall=0.6826901376664409; precision=0.6813063063063063; f1_score=0.6819975200090181
