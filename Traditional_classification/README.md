@@ -1,5 +1,6 @@
 # Classificazione Tradizionale
 
+#### NOTEBOOKS
 - Nel Notebook "Classification.ipynb" è contenuto il codice che ha permesso di ottenere
 un dataset per ogni stazione, sui quali sono poi andato ad allenare (con i parametri di
 default) e testare i modelli  per i vari algoritmi di classificazione tradizionali.
@@ -23,6 +24,7 @@ ha permesso di effettuare una fase di finetuning degli iperparametri,
 considerando separatamente le diverse fasce orarie. I migliori modelli ottenuti
 sono stati poi testati sui vari test set.
 
+#### RESULT FOLDERS
 - Nella cartella "trained_models" sono contenuti tutti i modelli ottenuti dalla fase di 
 training effettuata utilizzando i parametri di default.
 
