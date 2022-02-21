@@ -57,3 +57,9 @@ all'istante precedente la stazione si trovava effettivamente in uno stato divers
 #### FOLDER
 - La cartella "Results_pattern_extraction" contiene i pattern risultanti dalle fasi di estrazione 
 e filtraggio.
+
+- La cartella "Test_results" contiene tutti i risultati dei test delle diverse versioni
+del classificatore associativo. Nei file .txt all'interno delle cartelle sono contenuti 
+i risultati prima per le diverse stazioni, mentre alla fine dei file è riportata 
+la matrice di confusione globale (ottenuta dalla somma di tutte le altre) con le 
+rispettive metriche generali.
