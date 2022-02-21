@@ -20,3 +20,6 @@ alla fase di classificazione per mezzo del classificatore associativo. In questa
 fase è stata eseguita nuovamente la fase di estrazione dei pattern utilizzando le
 configurazioni migliori individuate durante la fase di estrazione preliminare
 discussa al punto 2.
+
+All'interno di ogni folder è contenuto un ulteriore file README che descrive più nel
+dettaglio i vari Notebook appartenenti alle rispettive fasi.
